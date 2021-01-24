@@ -17,5 +17,6 @@ During the learning process he completed (so far) 3 projects and >
 - ⚡ Fun fact: ... he loves coding 
 -->
 
+
 ![Alt Text](https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif)
 
