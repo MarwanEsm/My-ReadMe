@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I love coding 
 -->
 
-![Alt Text](https://media.giphy.com/media/aQCCNezRpb9Hq/giphy.gif)
+![Alt Text](https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif)
 
