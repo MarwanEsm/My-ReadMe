@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**MarwanEsm/MarwanEsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... Currency Rate Exchange App
+- 🌱 I’m currently learning ... React js
+- 👯 I’m looking to collaborate on ... Different Projects
+- 🤔 I’m looking for help with ... React js
+- 💬 Ask me about ... Anything (if I know the answer :))
+- 📫 How to reach me: ... Poke me
+- 😄 Pronouns: ... M A R W A N
+- ⚡ Fun fact: ... I love coding 
 -->
+
+![Alt Text](https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif)
